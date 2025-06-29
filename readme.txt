@@ -1,0 +1,3 @@
+guessing和main是并行化后的代码
+guessing_serial和main_serial是串行代码
+guessing_new是PT层次并行化的代码
